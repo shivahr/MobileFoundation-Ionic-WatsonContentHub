@@ -1,6 +1,6 @@
 **Note**: This is a work in progress.
 
-# MobileFoundation-Ionic-WatsonContentHub
+# Mobile application content management using Watson Content Hub and IBM Mobile Foundation
 
 <img src="doc/source/images/Architecture.png" alt="Architecture diagram" width="1200" border="10" />
 
